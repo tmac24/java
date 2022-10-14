@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="95e73b69-85b0-453a-a507-81d54f4dc672" name="Default Changelist" comment="" />
+    <list default="true" id="95e73b69-85b0-453a-a507-81d54f4dc672" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,7 +17,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1mJvRHASGiceGAq54Gb0Os5E8St" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -31,7 +37,7 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="full.screen.before.presentation.mode" value="false" />
     <property name="jdk.selected.JAVA_MODULE" value="10" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/myproject02/src/com/sun/team/service" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -130,6 +136,9 @@
       <workItem from="1611365874513" duration="6803000" />
       <workItem from="1611540432129" duration="4473000" />
       <workItem from="1611725746129" duration="2014000" />
+      <workItem from="1660189319299" duration="27000" />
+      <workItem from="1660198018963" duration="38000" />
+      <workItem from="1660198257042" duration="24000" />
     </task>
     <servers />
   </component>
@@ -137,82 +146,10 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="552" y="178" key="#Project_Structure" timestamp="1609224636332">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="750" y="263" key="#Project_Structure" timestamp="1660189344870">
+      <screen x="0" y="25" width="1920" height="962" />
     </state>
-    <state x="552" y="178" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1609224636332" />
-    <state x="1183" y="218" key="#com.intellij.ide.util.MemberChooser" timestamp="1611542339752">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="1183" y="218" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1611542339752" />
-    <state x="740" y="261" key="FileChooserDialogImpl" timestamp="1609298928521">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="740" y="261" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1609298928521" />
-    <state width="1877" height="401" key="GridCell.Tab.0.bottom" timestamp="1611541124367">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="956" height="265" key="GridCell.Tab.0.bottom.inPresentationMode" timestamp="1610964538453">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="956" height="265" key="GridCell.Tab.0.bottom.inPresentationMode/0.0.1920.1040@0.0.1920.1040" timestamp="1610964538453" />
-    <state width="1877" height="401" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1611541124367" />
-    <state width="1877" height="401" key="GridCell.Tab.0.center" timestamp="1611541124367">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="956" height="265" key="GridCell.Tab.0.center.inPresentationMode" timestamp="1610964538453">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="956" height="265" key="GridCell.Tab.0.center.inPresentationMode/0.0.1920.1040@0.0.1920.1040" timestamp="1610964538453" />
-    <state width="1877" height="401" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1611541124367" />
-    <state width="1877" height="401" key="GridCell.Tab.0.left" timestamp="1611541124367">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="956" height="265" key="GridCell.Tab.0.left.inPresentationMode" timestamp="1610964538452">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="956" height="265" key="GridCell.Tab.0.left.inPresentationMode/0.0.1920.1040@0.0.1920.1040" timestamp="1610964538452" />
-    <state width="1877" height="401" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1611541124367" />
-    <state width="1877" height="401" key="GridCell.Tab.0.right" timestamp="1611541124367">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="956" height="265" key="GridCell.Tab.0.right.inPresentationMode" timestamp="1610964538453">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="956" height="265" key="GridCell.Tab.0.right.inPresentationMode/0.0.1920.1040@0.0.1920.1040" timestamp="1610964538453" />
-    <state width="1877" height="401" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1611541124367" />
-    <state x="922" y="25" width="998" height="723" key="SettingsEditor" timestamp="1611728544781">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="922" y="25" width="998" height="723" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1611728544781" />
-    <state width="498" height="446" key="SwitcherDM" timestamp="1611064857853">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="498" height="446" key="SwitcherDM/0.0.1920.1040@0.0.1920.1040" timestamp="1611064857853" />
-    <state x="897" y="342" key="com.intellij.ide.util.TipDialog" timestamp="1609298735717">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="897" y="342" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1609298735717" />
-    <state x="1173" y="241" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1611371175748">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="1173" y="241" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1920.1040@0.0.1920.1040" timestamp="1611371175748" />
-    <state x="859" y="152" width="647" height="801" key="find.popup" timestamp="1610965441350">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="859" y="152" width="647" height="801" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1610965441350" />
-    <state x="525" y="404" width="1251" height="534" key="new project wizard" timestamp="1611130736088">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="525" y="404" width="1251" height="534" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1611130736088" />
-    <state x="1156" y="27" key="refactoring.ChangeSignatureDialog" timestamp="1611056420582">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="1156" y="27" key="refactoring.ChangeSignatureDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1611056420582" />
-    <state x="1066" y="280" width="672" height="678" key="search.everywhere.popup" timestamp="1611372313566">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="1066" y="280" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1611372313566" />
+    <state x="750" y="263" key="#Project_Structure/-1920.25.1920.1055/0.25.1920.962@0.25.1920.962" timestamp="1660189344870" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/basic_code$CustomerView.ic" NAME="CustomerView Coverage Results" MODIFIED="1611055813138" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
